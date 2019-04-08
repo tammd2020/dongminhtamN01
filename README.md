@@ -31,5 +31,5 @@ Click here:  [Sound Recorder apk](https://github.com/tammd2020/ghi_am_minh_tam_n
 # Options
 <p align="center"><img src="https://scontent.fhan5-2.fna.fbcdn.net/v/t1.15752-9/56869960_442161199859662_1619509163753209856_n.png?_nc_cat=102&_nc_oc=AQnU1UymGwh74QduVrjvvXJlPlLHl-6WbgngwOR-guATxoN0yhwJcjSI9hq_Yclivto&_nc_ht=scontent.fhan5-2.fna&oh=6a6305ec862100b1dbea38e1731db7c9&oe=5D42F5B1" alt="" height="300"></p>
 
-# Share
+# Share File
 <p align="center"><img src="https://scontent.fhan5-5.fna.fbcdn.net/v/t1.15752-9/56498664_906417063025016_4351590821980536832_n.png?_nc_cat=108&_nc_oc=AQm7KVqZ_Na-sN5aMNb1usRiPx__bCOzUFVPjdX_pZudNqBLUjibKlL9ni3n222-Pj8&_nc_ht=scontent.fhan5-5.fna&oh=786673974739ae6754ae7297981481b9&oe=5D05241C" alt="" height="300"></p>
