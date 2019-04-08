@@ -22,7 +22,7 @@ Click here:  [Sound Recorder apk](https://github.com/tammd2020/ghi_am_minh_tam_n
 # Rename File
 <p align="center"><img src="https://scontent.fhan5-6.fna.fbcdn.net/v/t1.15752-9/56764728_1182668415235204_3077227686855180288_n.png?_nc_cat=107&_nc_oc=AQn4VpzGbZ9FhQsPaN5ibJW_FT4rIHYF_zkFhzdX1Scm79-IZOopcsMlv3cDzaVs6to&_nc_ht=scontent.fhan5-6.fna&oh=4914e241b03973f0eda3a82d947e5bf6&oe=5D423F81" alt="" height="300"></p>
 
-# Play
+# Play Audio
 <p align="center"><img src="https://scontent.fhan5-3.fna.fbcdn.net/v/t1.15752-9/56485598_356191014999910_4831258134011969536_n.png?_nc_cat=106&_nc_oc=AQnvrt8bE6FIb8Z4CjTxGiGFoYgey0MvmWgEhBo30zUQiAxmYPZBW96RGVVvz14AGg0&_nc_ht=scontent.fhan5-3.fna&oh=cbacfa022dcfbd563650b8792b95dffe&oe=5D48D9E1" alt="" height="300"></p>
 
 # Settings 
