@@ -1,8 +1,10 @@
 
+# Download Sound Recorder
+
+Click here:  [Sound Recorder apk](https://github.com/tammd2020/ghi_am_minh_tam_no1/blob/master/app-debug.apk) 
+
 # Sound Recorder <img width="50px" heigh="50px" src="https://scontent.fhan5-1.fna.fbcdn.net/v/t1.15752-9/57106721_704460556637088_8391863555145596928_n.png?_nc_cat=109&_nc_oc=AQlhmkHBvG6JyAbf0_ehrMZJdqG_j-treOSCc6-_bZ-aIUY-lGghGz5DzfVI92Wj4L4&_nc_ht=scontent.fhan5-1.fna&oh=8996cf504fd4a24a3ef0a5d8e120aa1e&oe=5D3B74C0">
- 
-  This  amazing program allows you to record your favourite music or audio to a file. It can record audio from your system's soundcard, microphones, browsers, webcams & more. Put simply; if it plays out of your loudspeakers you can record it.
-  
+   This  amazing program allows you to record your favourite music or audio to a file. It can record audio from your system's soundcard, microphones, browsers, webcams & more. Put simply; if it plays out of your loudspeakers you can record it.
   It has an advanced timer that can:
 ```
       Start, stop or pause recording at a given clock time.
@@ -14,8 +16,6 @@
       Saved
       Delete file
  ```
- 
-# Other demo
 # Start, stop or pause after a time period.
 <p align="center"><img src="https://scontent.fhan5-6.fna.fbcdn.net/v/t1.15752-9/56821224_621619341620495_8955298324475281408_n.png?_nc_cat=107&_nc_oc=AQmVhGenK_jcE7_lrqQDxm797Qf8edZFBTZPUKCpI-xl-pcvE9OR0Na6FXpaJOaUPS0&_nc_ht=scontent.fhan5-6.fna&oh=2df62926c4e2ae8a7a8a69003aa3636b&oe=5D3AC1D0" alt="" height="300"></p>
 
@@ -33,8 +33,3 @@
 
 # Share
 <p align="center"><img src="https://scontent.fhan5-5.fna.fbcdn.net/v/t1.15752-9/56498664_906417063025016_4351590821980536832_n.png?_nc_cat=108&_nc_oc=AQm7KVqZ_Na-sN5aMNb1usRiPx__bCOzUFVPjdX_pZudNqBLUjibKlL9ni3n222-Pj8&_nc_ht=scontent.fhan5-5.fna&oh=786673974739ae6754ae7297981481b9&oe=5D05241C" alt="" height="300"></p>
-
-# Setting
-
-
-
